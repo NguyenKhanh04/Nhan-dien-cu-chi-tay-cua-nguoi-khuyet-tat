@@ -1,1 +1,1 @@
-# Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat
+# He thong nhan dien cu chi tay cua nguoi khuyet tat
