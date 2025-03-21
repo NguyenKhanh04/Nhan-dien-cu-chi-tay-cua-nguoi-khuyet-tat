@@ -1,4 +1,4 @@
-<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay của người khuyết tật!🚀
+<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay của người khuyết tật ! 🚀
 
  </h1>
 <div align="center">
@@ -33,8 +33,7 @@ Dự án này sử dụng **MediaPipe**, **TensorFlow**, **OpenCV** và **PyAuto
 - 💾 **RAM** `8GB+` - Được đề xuất cho hiệu suất tối ưu
 - 🖥 **CPU** `4+ cores` - Để xử lý song song
 - 📷 **Webcam** - Để sử dụng tính năng nhận diện cử chỉ ( **Webcam** hoặc **Camera** hoạt động tốt )
-- 🎯 **PyAutoGUI** (pyautogui) – Để kiểm soát PowerPoint
-- 🪟 **pygetwindow** (pygetwindow) – Cho quản lý window
+
 
 ## 🎥 Thiết lập dự án
 #### 1.📦 Clone Dự án
@@ -73,6 +72,6 @@ python hand_run.py
 - Đảm bảo webcam hoạt động bình thường.
 ## 📝 License
 
-© 2025 **Nhóm 5 - Lớp CNTT 1603** 🎓  
+© 2025 **Nhóm 4 - Lớp CNTT 1603** 🎓  
 🏫 **Trường Đại học Đại Nam** 
 
