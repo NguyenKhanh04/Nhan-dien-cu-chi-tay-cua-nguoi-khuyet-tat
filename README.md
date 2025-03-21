@@ -3,8 +3,7 @@
 
 <p align="center">
   <img src="logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="![logoDaiNam](https://github.com/user-attachments/assets/8944233f-d78e-4ec1-b586-452be0459ba0)
-" alt="AIoTLab Logo" width="170"/>
+  <img src="LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
