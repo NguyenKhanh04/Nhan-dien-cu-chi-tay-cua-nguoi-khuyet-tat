@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="[d:\BTL_TTCNTT5\Overleaf_nhom4\Github\Image\LogoAIoTLab.png](https://github.com/NguyenKhanh04/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat/blob/main/LogoAIoTLab.png?raw=true)" alt="DaiNam University Logo" width="200"/>
+  <img src="" alt="DaiNam University Logo" width="200"/>
   <img src="d:\BTL_TTCNTT5\Overleaf_nhom4\Github\Image\logoDaiNam.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
