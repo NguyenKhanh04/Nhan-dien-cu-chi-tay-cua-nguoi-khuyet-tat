@@ -18,9 +18,9 @@ Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với ki
 
 ## 📥 Cài đặt
 
-### 🛠 Điều kiện tiên quyết
+### 🛠 Điều kiện cần
 
-- 🐍 **Python** `3.7+` - Ngôn ngữ lập trình cốt lõi
+- 🐍 **Python** `3.7+` - Ngôn ngữ lập trình python
 - 💾 **RAM** `8GB+` - Được đề xuất cho hiệu suất tối ưu
 - 🖥 **CPU** `4+ cores` - Để xử lý song song
 - 📷 **Webcam** - Để sử dụng tính năng nhận diện cử chỉ ( **Webcam** hoặc **Camera** hoạt động tốt )
