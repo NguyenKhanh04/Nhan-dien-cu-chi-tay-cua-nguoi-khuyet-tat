@@ -14,8 +14,8 @@
 Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với kiến trúc Sequential**  **TensorFlow**, **OpenCV** để nhận diện cử chỉ tay  thông qua webcam. **Mô hình ANN** được huấn luyện để nhận diện **10 cử chỉ tay** khác nhau 
 
 ## 🎯 Tính năng chính
--Ghi lại video cử chỉ tay và lưu keypoints vào CSV.
--Khi camera hiển thị lên màn hình và nhận diện các cử chỉ được lưu sẵn trước đó.
+- Ghi lại video cử chỉ tay và lưu vào file CSV.
+- Khi camera hiển thị lên màn hình và nhận diện các cử chỉ được lưu sẵn trước đó.
 
 ## 📥 Cài đặt
 
