@@ -1,4 +1,4 @@
-<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay của người khuyết tật ! 🚀</h1>
+<h1 align="center">🚀 Hệ thống nhận diện cử chỉ tay của người khuyết tật !🖐 </h1>
 <div align="center">
 
 <p align="center">
