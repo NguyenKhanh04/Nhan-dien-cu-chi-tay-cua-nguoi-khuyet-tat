@@ -19,7 +19,7 @@ Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với ki
 
 ## 📥 Cài đặt
 
-### 🛠 Điều kiện cần và đủ
+### 🛠 Điều kiện cần & đủ
 
 - 🐍 **Python** `3.7+` - Ngôn ngữ lập trình python
 - 💾 **RAM** `8GB+` - Được đề xuất cho hiệu suất tối ưu
@@ -37,15 +37,11 @@ git clone https://github.com/NguyenKhanh04/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet
 pip install opencv-python mediapipe numpy tensorflow pandas scikit-learn matplotlib
 ```
 ## 🎥 Cách sử dụng
-#### 1️⃣ Chạy chương trình thu thập dữ liệu
-```bash
-python getdata.py
-```
-#### 2️⃣ Huấn luyện mô hình
+#### 1️⃣ Huấn luyện mô hình
 ```bash
 python train_model.py
 ```
-#### 3️⃣ Chạy chương trình nhận diện cử chỉ
+#### 2️⃣ Chạy chương trình nhận diện cử chỉ
 ```bash
 python hand_run.py
 ```
