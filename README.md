@@ -19,7 +19,7 @@ Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với ki
 
 ## 📥 Cài đặt
 
-### 🛠 Điều kiện cần
+### 🛠 Điều kiện cần và đủ
 
 - 🐍 **Python** `3.7+` - Ngôn ngữ lập trình python
 - 💾 **RAM** `8GB+` - Được đề xuất cho hiệu suất tối ưu
@@ -49,20 +49,8 @@ python train_model.py
 ```bash
 python hand_run.py
 ```
-## 🖐 Các cử chỉ hỗ trợ
-- ✅ **Call** - Màn hình đen (tạm dừng trình chiếu)
-- ✅ **Finger_Gun** - Chuyển đến slide đầu tiên
-- ✅ **Left** - Quay lại slide trước
-- ✅ **OK** - Tiếp tục trình chiếu
-- ✅ **Open** - Mở PowerPoint và bắt đầu trình chiếu
-- ✅ **Right** - Chuyển slide tiếp theo
-- ✅ **Stop** - Thoát trình chiếu
-- ✅ **Thumbs_Up** - Chuyển đến slide cuối cùng
-## 📌 Ghi chú
-- Nhấn **'q'** để thoát chương trình nhận diện.
-- Đảm bảo webcam hoạt động bình thường.
 ## 📝 License
 
-© 2025 **Nhóm 4 - Lớp CNTT 1603** 🎓  
+© 2025 **Nhóm 4 - Lớp CNTT 16-03** 🎓  
 🏫 **Trường Đại học Đại Nam** 
 
