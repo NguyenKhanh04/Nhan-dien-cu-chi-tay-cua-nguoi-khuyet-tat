@@ -1,6 +1,4 @@
-<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay của người khuyết tật ! 🚀
-
- </h1>
+<h1 align="center">🖐 Hệ thống nhận diện cử chỉ tay của người khuyết tật ! 🚀</h1>
 <div align="center">
 
 <p align="center">
@@ -13,17 +11,10 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
-Dự án này sử dụng **MediaPipe**, **TensorFlow**, **OpenCV** và **PyAutoGUI** để nhận diện cử chỉ tay và điều khiển PowerPoint thông qua webcam. **Mô hình GAFormer** được huấn luyện để nhận diện **8 cử chỉ tay** khác nhau nhằm thực hiện các thao tác trên **PowerPoint** như chuyển slide, bắt đầu trình chiếu, tạm dừng, v.v.
+Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với kiến trúc Sequential**  **TensorFlow**, **OpenCV** để nhận diện cử chỉ tay  thông qua webcam. **Mô hình ANN** được huấn luyện để nhận diện **10 cử chỉ tay** khác nhau 
 
 ## 🎯 Tính năng chính
-
 -Ghi lại video cử chỉ tay và lưu keypoints vào CSV.
-
--Huấn luyện mô hình GAFormer sử dụng Gramian Angular Field (GAF) để chuyển đổi dữ liệu.
-
--Nhận diện cử chỉ tay trong thời gian thực.
-
--Điều khiển PowerPoint bằng các cử chỉ tay đã học.
 
 ## 📥 Cài đặt
 
