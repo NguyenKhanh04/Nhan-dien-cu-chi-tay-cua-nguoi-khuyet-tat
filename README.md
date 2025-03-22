@@ -30,8 +30,7 @@ Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với ki
 ## 🎥 Thiết lập dự án
 #### 1.📦 Clone Dự án
 ```bash
-git clone https://github.com/mthanh04/Nhan-dien-cu-chi-tay.git
-cd hand-gesture-mediapipe
+[git clone https://github.com/mthanh04/Nhan-dien-cu-chi-tay.git](https://github.com/NguyenKhanh04/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat.git)
 ```
 #### 2.📚 Tải các thư viện python cần thiết
 ```bash
