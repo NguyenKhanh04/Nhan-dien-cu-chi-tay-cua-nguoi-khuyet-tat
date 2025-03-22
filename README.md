@@ -15,6 +15,7 @@ Dự án này sử dụng **sử dụng Mạng Neural Nhân tạo (ANN) với ki
 
 ## 🎯 Tính năng chính
 -Ghi lại video cử chỉ tay và lưu keypoints vào CSV.
+-Khi camera hiển thị lên màn hình và nhận diện các cử chỉ được lưu sẵn trước đó.
 
 ## 📥 Cài đặt
 
