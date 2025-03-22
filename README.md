@@ -34,7 +34,7 @@ git clone https://github.com/NguyenKhanh04/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet
 ```
 #### 2.📚 Tải các thư viện python cần thiết
 ```bash
-pip install opencv-python mediapipe numpy tensorflow pandas scikit-learn matplotlib pyautogui pygetwindow
+pip install opencv-python mediapipe numpy tensorflow pandas scikit-learn matplotlib
 ```
 ## 🎥 Cách sử dụng
 #### 1️⃣ Chạy chương trình thu thập dữ liệu
